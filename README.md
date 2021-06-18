@@ -1,2 +1,3 @@
 # readable
-Tools for working with go struct tags
+
+Provides functions to format and handle struct tags.
